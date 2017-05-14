@@ -2,7 +2,7 @@
 
 print("Content-type: text/html")
 print()
-q = 10;
+q = 10
 i = 0
 print("<table border='1px' style='border-collapse:collapse;'>")
 print("<tr>")

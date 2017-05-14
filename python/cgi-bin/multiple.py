@@ -24,8 +24,8 @@ while i <= q:
 			print("<td style='font-weight:600;'>", i, "</td>")
 		else:
 			print("<td", style, ">", i * j, "</td>")
-		j += 1;
+		j += 1
 	print("</tr>")
-	i += 1;
+	i += 1
 print("</table>")
 	
